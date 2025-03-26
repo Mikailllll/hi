@@ -1,8 +1,8 @@
 package main
 
 import (
+	"pr1/deutsch"
 	"pr1/greeting"
-	"pr1/greeting/deutsch"
 )
 
 func main() {
